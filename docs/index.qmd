@@ -1,5 +1,5 @@
 ---
-title: "Temario del Curso de Estadística aplicada a Ecologia"
+title: "Temario del Curso Curso de Modelos Jerárquicos en Ecología"
 author: "David Murillo"
 format: html
 editor: visual
@@ -7,7 +7,7 @@ editor: visual
 
 [<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
 
-En este curso, exploraremos cómo aplicar técnicas estadísticas fundamentales para analizar y comprender datos relacionados con el campo de la ecología. Desde la recopilación y limpieza de datos hasta la interpretación de resultados, este curso te proporcionará las habilidades necesarias para llevar a cabo análisis estadísticos efectivos en tu investigación ecológica.
+Este curso ofrece una introducción completa a los modelos jerárquicos aplicados en ecología, enfocados en el análisis de datos ecológicos complejos. A través de este curso, los participantes aprenderán a utilizar herramientas estadísticas avanzadas para modelar procesos ecológicos que ocurren en múltiples escalas. Se explorarán tanto los aspectos teóricos como prácticos de los modelos jerárquicos, basados en los libros Applied Hierarchical Modelling in Ecology (volúmenes 1 y 2) y Integrating Population Models. Los temas incluyen la modelación de abundancia, ocupación, dinámica de poblaciones y procesos espacio-temporales. El curso está diseñado para ecólogos, conservacionistas y estudiantes interesados en el análisis cuantitativo de datos ecológicos.
 
 # Inscripciones
 
@@ -19,9 +19,9 @@ En este curso, exploraremos cómo aplicar técnicas estadísticas fundamentales 
 
 # Costos de Inscripción:
 
--   Inversión en USD (Dólares estadounidenses): 50 USD.
+-   Inversión en USD (Dólares estadounidenses): 80 USD.
 
--   Inversión para hondureños: 1200 Lempiras hondureños.
+-   Inversión para hondureños: 1800 Lempiras hondureños.
 
 # Métodos de Pago:
 
@@ -47,29 +47,32 @@ En este curso, exploraremos cómo aplicar técnicas estadísticas fundamentales 
 
 # Descripción del Curso:
 
-Este curso proporciona una introducción práctica a las técnicas estadísticas aplicadas en ecología. Desde los fundamentos de R hasta el análisis avanzado de datos ecológicos, exploraremos una variedad de métodos estadísticos clave utilizados en la investigación ecológica.
+El curso "Modelos Jerárquicos en Ecología" ofrece una formación práctica y teórica en el uso de modelos jerárquicos para analizar datos ecológicos. A lo largo de diez clases, los participantes aprenderán a modelar abundancia, ocupación, densidad y supervivencia de especies utilizando herramientas avanzadas como los modelos N-Mixture, muestreo de distancia jerárquico, y modelos de ocupación con múltiples especies. Basado en los libros Applied Hierarchical Modelling in Ecology (tomo 1 y 2) y Integrating Population Models, el curso está diseñado para ecólogos que buscan profundizar en la modelación estadística de procesos ecológicos complejos, con un enfoque especial en la estructuración jerárquica de datos.
+
+Este curso es ideal para quienes trabajan en la conservación y monitoreo de poblaciones de especies, brindando herramientas para manejar incertidumbre y variabilidad en los sistemas ecológicos.
 
 # Temas que Cubriremos:
 
-[Clase 1: Comandos basicos en R y uso de scripts](Clase1_1.html)
+[Clase 1: Introducción a Modelos Jerárquicos]()
 
-[Clase 2: Analisis de Diversidad y Riqueza de especies](Clase2_1.html)
+[Clase 2: Modelar abundancia: N-Mixture models](Clase2.html)
 
-[Clase 3: Analisis de Variaza y Prueba Correlacion](Clase3_1.html)
+[Clase 3: Modelar abundancia con muestreo de distancia jerárquico](Clase3.html)
 
-[Clase 4: Pruebas no parametricas](Clase4_1.html)
+[Clase 4: Modelar densidad con muestreo de distancia jerárquico](Clase4.html)
 
-[Clase 5: Modelos lineales](Clase5_1.html)
+[Clase 5: Modelar ocupación de especies en poblaciones cerradas](Clase5.html)
 
-[Clase 6: Modelos lineales Generalizados: Poisson](Clase6_1.html)
+[Clase 6: Modelar ocupación con múltiples especies](Clase6.html)
 
-[Clase 7: Modelos lineales Generalizados: Binomial](Clase7_1.html)
+[Clase 7: Modelar abundancia a partir de datos de presencia/ausencia](Clase7.html)
 
-[Clase 8: NMDS, PCA y PERMANOVA](Clase8_1.html)
+[Clase 8: Modelar supervivencia aparente o persistencia](Clase8.html)
 
-[Clase 9: Anosim, MRPP, SIMPER e Indicador de especies](Clase9_1.html)
+[Clase 9: Modelar supervivencia de nido](Clase9.html)
 
-[Clase 10: Repaso, Preguntas y respuestas](Clase10_1.html)
+[Clase 10: Repaso, Preguntas y respuestas](Clase10.html)
+
 
 # Metodología de Enseñanza:
 
@@ -77,11 +80,8 @@ Nuestro enfoque educativo se basa en la práctica activa y el aprendizaje intera
 
 # Requisitos Previos:
 
-No se requiere experiencia previa en estadística o programación.
+Se requiere haber completado el curso de [nivel básico](https://hn-biology-investigation.github.io/TemarioCursoAnalisisEstadisticoBasico/) o uno similar.
 
-Este curso está diseñado específicamente para personas interesadas en aplicar técnicas estadísticas en el campo de la ecología. A través de este curso, explorarás cómo utilizar R y RStudio para analizar y comprender datos ecológicos de manera más avanzada. 
-
-! Únete a nosotros en esta emocionante aventura hacia el dominio de la estadística aplicada a la ecología. ¡Te esperamos!
-
+Este curso es nivel avanzado está diseñado para aquellos que desean profundizar en sus conocimientos de estadística y adquirir habilidades más avanzadas en el análisis de datos utilizando R y RStudio. ¡Esperamos que te unas a nosotros en este emocionante viaje hacia la estadística avanzada!
 
 ![HN Biology Investigation Academy](HN%20Cursos%20publicidad/HN%20Biology%20Inv%20large.jpg)
