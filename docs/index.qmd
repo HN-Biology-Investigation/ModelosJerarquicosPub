@@ -1,0 +1,87 @@
+---
+title: "Temario del Curso de Estadística aplicada a Ecologia"
+author: "David Murillo"
+format: html
+editor: visual
+---
+
+[<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
+
+En este curso, exploraremos cómo aplicar técnicas estadísticas fundamentales para analizar y comprender datos relacionados con el campo de la ecología. Desde la recopilación y limpieza de datos hasta la interpretación de resultados, este curso te proporcionará las habilidades necesarias para llevar a cabo análisis estadísticos efectivos en tu investigación ecológica.
+
+# Inscripciones
+
+<!-- Start Badges -->
+
+| [Whapsapp](http://wa.me/+50499549551) \| [Facebook](https://www.facebook.com/Hn.Biology.Investigation?mibextid=ZbWKwL) \| [email](admi@hnbiology.org) \| [website](https://www.hnbiology.org/) \|
+
+<!-- End Badges -->
+
+# Costos de Inscripción:
+
+-   Inversión en USD (Dólares estadounidenses): 50 USD.
+
+-   Inversión para hondureños: 1200 Lempiras hondureños.
+
+# Métodos de Pago:
+
+-   Pago Internacional por [PayPal](https://www.paypal.com/paypalme/hnbiologyinv) .
+
+-   Pago para hondureños por Banco Atlántida, BANPAÍS y BAC Honduras: Por favor, solicita la información pertinente.
+
+-   Otras formas de pago:
+
+[MoneyGram](https://www.moneygram.com/mgo/us/es/send/como-enviar-dinero/enviar-en-linea/).
+
+[DineroExpress](https://www.dineroexpress.com/WebPortalDexDigital/)
+
+# Modalidades del Curso:
+
+-   Modalidad Asincrónica: Descripción: Tendrás acceso a nuestra plataforma educativa donde encontrarás tutoriales detallados para cada tema del curso. Además, tendrás acceso a todos los materiales y recursos necesarios para tu aprendizaje. Incluye tres asesorías individuales de una hora cada una con nuestros asesores.
+
+-   Modalidad en Vivo: Descripción: Durante el año, ofreceremos 3 o 4 cursos en vivo a través de la plataforma Zoom. Estos cursos serán impartidos en tiempo real y también tendrás acceso a la plataforma educativa con las grabaciones de cada clase y todos los recursos necesarios para tu aprendizaje.
+
+# Certificación:
+
+-   Descripción: Al finalizar exitosamente el curso y completar las actividades asignadas, recibirás un certificado emitido por nuestra institución. Todas las actividades serán entregadas y revisadas por nuestros instructores para garantizar la calidad del aprendizaje y la validez del certificado.
+
+# Descripción del Curso:
+
+Este curso proporciona una introducción práctica a las técnicas estadísticas aplicadas en ecología. Desde los fundamentos de R hasta el análisis avanzado de datos ecológicos, exploraremos una variedad de métodos estadísticos clave utilizados en la investigación ecológica.
+
+# Temas que Cubriremos:
+
+[Clase 1: Comandos basicos en R y uso de scripts](Clase1_1.html)
+
+[Clase 2: Analisis de Diversidad y Riqueza de especies](Clase2_1.html)
+
+[Clase 3: Analisis de Variaza y Prueba Correlacion](Clase3_1.html)
+
+[Clase 4: Pruebas no parametricas](Clase4_1.html)
+
+[Clase 5: Modelos lineales](Clase5_1.html)
+
+[Clase 6: Modelos lineales Generalizados: Poisson](Clase6_1.html)
+
+[Clase 7: Modelos lineales Generalizados: Binomial](Clase7_1.html)
+
+[Clase 8: NMDS, PCA y PERMANOVA](Clase8_1.html)
+
+[Clase 9: Anosim, MRPP, SIMPER e Indicador de especies](Clase9_1.html)
+
+[Clase 10: Repaso, Preguntas y respuestas](Clase10_1.html)
+
+# Metodología de Enseñanza:
+
+Nuestro enfoque educativo se basa en la práctica activa y el aprendizaje interactivo. A lo largo del curso, trabajarás en ejercicios prácticos y proyectos que te permitirán aplicar directamente lo que aprendas. Además, tendrás acceso a recursos complementarios y a un equipo de instructores dedicados que te brindarán apoyo individualizado cuando sea requerido.
+
+# Requisitos Previos:
+
+No se requiere experiencia previa en estadística o programación.
+
+Este curso está diseñado específicamente para personas interesadas en aplicar técnicas estadísticas en el campo de la ecología. A través de este curso, explorarás cómo utilizar R y RStudio para analizar y comprender datos ecológicos de manera más avanzada. 
+
+! Únete a nosotros en esta emocionante aventura hacia el dominio de la estadística aplicada a la ecología. ¡Te esperamos!
+
+
+![HN Biology Investigation Academy](HN%20Cursos%20publicidad/HN%20Biology%20Inv%20large.jpg)
