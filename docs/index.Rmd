@@ -1,5 +1,5 @@
 ---
-title: "Curso de Análisis Estadístico para Estudios Ecológicos"
+title: "Curso de Modelos Jerárquicos en Ecología"
 autor: "David Murillo - HN Biology Investigation"
 output:
   html_document:
@@ -11,30 +11,30 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-Bienvenidos a este curso diseñado para profesionales, estudiantes y personas interesadas en la Ecología. En este curso, exploraremos las técnicas estadísticas utilizadas en el análisis de datos ecológicos y cómo aplicarlas para evaluar la significación de las diferencias entre grupos, identificar patrones y tendencias en los datos y explorar las relaciones entre las variables. A través de ejemplos y ejercicios prácticos, aprenderás a utilizar diferentes métodos estadísticos y a analizar y visualizar los datos de manera efectiva. Si tienes un interés en la Ecología y quieres aprender a utilizar las herramientas estadísticas para analizar tus datos, ¡este curso es para ti!
+Este curso ofrece una introducción completa a los modelos jerárquicos aplicados en ecología, enfocados en el análisis de datos ecológicos complejos. A través de este curso, los participantes aprenderán a utilizar herramientas estadísticas avanzadas para modelar procesos ecológicos que ocurren en múltiples escalas. Se explorarán tanto los aspectos teóricos como prácticos de los modelos jerárquicos, basados en los libros Applied Hierarchical Modelling in Ecology (volúmenes 1 y 2) y Integrating Population Models. Los temas incluyen la modelación de abundancia, ocupación, dinámica de poblaciones y procesos espacio-temporales. El curso está diseñado para ecólogos, conservacionistas y estudiantes interesados en el análisis cuantitativo de datos ecológicos.
 
 ### Contenido
 
 
 [Introduccion al curso](Introduccion.html)
 
-[Clase 1: Comandos basicos en R y uso de scripts](Clase1.html)
+[Clase 1: Introduccion a Modelos Jerarquicos]()
 
-[Clase 2: Analisis de Diversidad](Clase2.html)
+[Clase 2: Modelar abundancia: N-Mixture models](Clase2.html)
 
-[Clase 3: Analisis de Variaza y Prueba Correlacion](Clase3.html)
+[Clase 3: Modelar abundancia con muestreo de distancia jerarquico](Clase3.html)
 
-[Clase 4: Pruebas no parametricas](Clase4.html)
+[Clase 4: Modelar densidad con muestreo de distancia jerarquico](Clase4.html)
 
-[Clase 5: Modelos lineales](Clase5.html)
+[Clase 5: Modelar ocupacion de especies en poblaciones cerradas](Clase5.html)
 
-[Clase 6: Modelos lineales Generalizados: Poisson](Clase6.html)
+[Clase 6: Modelar ocupacion con ultiples especies](Clase6.html)
 
-[Clase 7: Modelos lineales Generalizados: Binomial](Clase7.html)
+[Clase 7: Modelar abundancia a partir de datos de presencia/ausencia](Clase7.html)
 
-[Clase 8: NMDS, PCA y PERMANOVA](Clase8.html)
+[Clase 8: Modelar supervivencia aparente o persistencia](Clase8.html)
 
-[Clase 9: Anosim, MRPP, SIMPER e Indicador de especies](Clase9.html)
+[Clase 9: Modelar supervivencia de nido](Clase9.html)
 
 [Clase 10: Repaso, Preguntas y respuestas](Clase10.html)
 
